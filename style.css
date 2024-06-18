@@ -17,6 +17,16 @@ html {
   color: #ffffff;
 }
 
+
+
+
+@media (max-width: 767px) {
+  .navbar-collapse {
+    background-color: #343a40; /* Background color for mobile menu */
+  }
+}
+
+
 .ftco-navbar-light .navbar-brand:hover,
 .ftco-navbar-light .navbar-brand:focus {
   color: #ffffff;
